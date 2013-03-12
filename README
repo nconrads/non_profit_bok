@@ -1,0 +1,41 @@
+% Development Guidelines
+% Test
+% Test 2
+
+## License Information
+_insert license information here_
+
+## Guidelines
+
+* These guiding documents will be developed using the pandoc expansion of the Markdown syntax.
+* The preferred written method will be as plain text.  pandoc will be used to generate special documents  (.docx, .pdf).
+* Changes to this document system will be managed through the Git distributed version control system.
+* Automatic generation of the documents will be handled through the use of the gnu make system.
+
+## Preliminary Example
+
+## List of Sections
+
+The following describes the list of sections that this document 
+
+1. Title Page
+2. License
+3. Acknowledgements
+4. Abstract
+5. Contents
+6. Introduction
+7. Analysis of IT Infrastructure
+   1. Analyze Your Needs
+   2. Understanding Your Current System
+   3. 
+8. Administrative Accounts
+9. Network Management
+10. Conclusion
+11. Bibliography
+12. Glossary
+13. Abbreviations
+14. Index
+15. Colophon
+
+
+
